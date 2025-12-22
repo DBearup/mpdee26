@@ -133,10 +133,13 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 /* announcement */
 .announce{ 
   width: 900px;
-  height: 100px;
+  height: 50px;
+  text-align:center; 
+  vertical-align:middle;
   /*border: 1px solid black;*/
-  padding: 10px;
-  margin: 10px; 
-  background-color: #52739e;
-  font-size:2.00em;  
+  /*padding: 10px;
+  margin: 10px;*/ 
+  background-color: #505050;
+  font-size:2.00em;
+  color: #fafafa
 }
