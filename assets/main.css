@@ -139,9 +139,11 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
   /*border: 1px solid black;*/
   /*padding: 10px;
     margin: 10px;*/
+  display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #1e4a18;
+  background-color: #b2132e;
   font-size:2.00em;
+  a{color: #52739e; text-decoration:none;};
   color: #fafafa
 }
