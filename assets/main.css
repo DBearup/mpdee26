@@ -132,14 +132,14 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
 
 /* announcement */
 .announce{ 
-  width: 900px;
+  width: 1000px;
   height: 75px;
   /*text-align:center; 
   vertical-align:middle;
   /*border: 1px solid black;*/
   /*padding: 10px;
     margin: 10px;*/
-  display: grid;
+  display: flex;
   align-items: center;
   justify-content: center;  
   background-color: #b2132e;
