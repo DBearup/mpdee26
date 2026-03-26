@@ -139,13 +139,9 @@ footer{font-size:0.875em; margin-top:12em; text-align:center;}
   /*border: 1px solid black;*/
   /*padding: 10px;
     margin: 10px;*/
-  /*display: flex;
+  /*display: flex; */
   align-items: center;
-  justify-content: center;*/
-  position: relative;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;  
+  justify-content: center;  
   background-color: #b2132e;
   font-size:1.50em;
   a{color: #505050; text-decoration:none;};
